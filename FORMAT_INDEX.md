@@ -79,4 +79,4 @@ The `ENG-KJV-HB-STANDARD` archive historically included over 100 specialized dat
 | **X12 / EDI** | `.x12`, `.edi` | Electronic Data Interchange for corporate logistics. |
 
 ---
-*Note: Due to file-size limitations and repository cloning speeds, the master branch maintains only the Core Foundational Formats. The specialized extensions listed above can be procedurally generated from the core `.db` using the repository's build pipelines.*
+*Note: This repository explicitly enforces an Anti-Truncation Policy. All 100+ specialized extensions listed above are actively maintained in the master branch alongside the Core Foundational Formats to ensure absolute cross-domain compatibility.*
