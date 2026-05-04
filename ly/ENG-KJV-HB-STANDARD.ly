@@ -1,3 +1,0 @@
-\version "2.22.1"
-\header { title = "Bible Verses" }
-{  c'4 d'4 e'4 f'4 ^"GEN 1:1"  c'4 d'4 e'4 f'4 ^"GEN 1:2"  c'4 d'4 e'4 f'4 ^"GEN 1:3"  c'4 d'4 e'4 f'4 ^"GEN 1:4"  c'4 d'4 e'4 f'4 ^"GEN 1:5"  c'4 d'4 e'4 f'4 ^"GEN 1:6"  c'4 d'4 e'4 f'4 ^"GEN 1:7"  c'4 d'4 e'4 f'4 ^"GEN 1:8"  c'4 d'4 e'4 f'4 ^"GEN 1:9"  c'4 d'4 e'4 f'4 ^"GEN 1:10"  c'4 d'4 e'4 f'4 ^"GEN 1:11"  c'4 d'4 e'4 f'4 ^"GEN 1:12"  c'4 d'4 e'4 f'4 ^"GEN 1:13"  c'4 d'4 e'4 f'4 ^"GEN 1:14"  c'4 d'4 e'4 f'4 ^"GEN 1:15"  c'4 d'4 e'4 f'4 ^"GEN 1:16"  c'4 d'4 e'4 f'4 ^"GEN 1:17"  c'4 d'4 e'4 f'4 ^"GEN 1:18"  c'4 d'4 e'4 f'4 ^"GEN 1:19"  c'4 d'4 e'4 f'4 ^"GEN 1:20"  }

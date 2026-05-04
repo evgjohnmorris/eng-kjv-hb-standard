@@ -1,0 +1,10 @@
+# Update Infrastructure Requirements
+
+# Built-in modules (sqlite3, logging, os) handle the primary workflow,
+# but any future generation scripts may require the following standards:
+
+# For YAML parsing in GitHub actions / config structures
+PyYAML>=6.0
+
+# For interacting with standard Python testing paradigms
+pytest>=7.4.0
