@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package bible;
+
+message Verse {
+  string book = 1;
+  int32 chapter = 2;
+  int32 verse = 3;
+  string text = 4;
+}
+
+message Bible {
+  string id = 1;
+  string version = 2;
+  repeated Verse verses = 3;
+}
